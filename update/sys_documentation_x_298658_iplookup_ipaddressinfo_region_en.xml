@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="region" label="Region" language="en" table="x_298658_iplookup_ipaddressinfo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>region</element>
+            <help/>
+            <hint/>
+            <label>Region</label>
+            <language>en</language>
+            <name>x_298658_iplookup_ipaddressinfo</name>
+            <plural>Regions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-22 17:03:38</sys_created_on>
+            <sys_id>b0392b1b0fc7230074d9cd8ce1050ec5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Region</sys_name>
+            <sys_package display_value="IPLookup" source="x_298658_iplookup">737d57130f47230074d9cd8ce1050e2a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPLookup">737d57130f47230074d9cd8ce1050e2a</sys_scope>
+            <sys_update_name>sys_documentation_x_298658_iplookup_ipaddressinfo_region_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-22 17:03:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
